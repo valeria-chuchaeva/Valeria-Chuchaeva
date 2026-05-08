@@ -4,11 +4,6 @@
 Я студентка 1 курса ННГАСУ (Институт информационных технологий), направление «Программная инженерия» (09.03.04).  
 Мечтаю стажироваться в T1 на направлении фронтенд-разработчика (React).
 
-**valeria-chuchaeva/Valeria-Chuchaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 **В настоящее время я изучаю:** **JavaScript** - активно учу с нуля; **React** — следующая цель после JavaScript; **язык С** - изучаю в университете; **Git и GitHub** - осваиваю.
 - 👯 Я ищу возможности для сотрудничества в T1.
 - 🎯 **Моя цель на 2026 год**
